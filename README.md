@@ -1,7 +1,7 @@
 # Programming Fundamentals Lab
 
-**Name:** **Abdul Haseeb**  
-**Roll Number:** **25K-6569**  
+**Name:** Abdul Haseeb  
+**Roll Number:** 25K-6569  
 
 ## Lab Objectives
 - Learn GitHub basics
