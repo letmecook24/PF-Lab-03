@@ -10,5 +10,5 @@
 
 ## Completed Tasks
 - [x] Created GitHub repository
-- [x] Added README and License
+- [x] Added README 
 - [x] Created branch and committed C files
